@@ -23,7 +23,7 @@ const ClockApp = () => {
         <div>
             <h1 className="section-title">React Clock</h1>
             <hr className="explanation" />
-            <p>{time} -  Muncie, IN</p>
+            <p>{time} -  Eagle Creek, IN</p>
 
             <h1 className="section-title">Second Clock</h1>
      
